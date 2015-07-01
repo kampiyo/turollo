@@ -1,0 +1,94 @@
+/* CUSTOM THEME SETTINGS FOR REVOLUTION SLIDER */
+.boxedcontainer		{	
+    max-width: 1230px; 
+    
+    margin:0 auto 80px; 
+    padding:0px;}
+
+/*********************************************
+	-	SETTINGS FOR BANNER CONTAINERS	-
+**********************************************/
+.tp-banner ul{
+visibility:hidden;
+}
+
+.tp-banner-container{
+	width:100%;
+   
+	position:relative;
+	padding:0;
+
+}
+
+.tp-banner{
+	width:100%;
+
+	position:relative;
+}
+
+.tp-banner-fullscreen-container {
+		width:100%;
+		position:relative;
+		padding:0;
+}
+
+
+.boxedcontainer.no-bottom-margin{
+    margin-bottom: 0;
+}
+
+.tp-caption.background{
+    font: 32px 'Raleway', Arial, sans-serif;
+    line-height: 35px;
+    padding: 15px 30px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.tp-caption.background.paragraph{
+    font: 18px 'Raleway', Arial, sans-serif;
+    padding: 25px;
+    line-height: 24px;
+    text-align: center;
+    background: rgba(114, 124, 137, 0.7);
+    color: #fff;
+}
+
+.tp-caption.regular{
+    font: 32px 'Raleway', Arial, sans-serif;
+    line-height: 32px;
+    top:80px;
+}
+
+.tp-caption.regular.small{
+    font: 18px 'Raleway', Arial, sans-serif;
+}
+
+.tp-caption.list-left{
+    background-image: url('../../img/slider/list.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+   
+
+}
+
+.tp-caption.list-left p{
+    margin-left: 50px;
+    padding-top: 10px;
+    padding: 10px 15px;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.tp-caption.list-right{
+    background-image: url('../../img/slider/list.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.tp-caption.list-right p{
+    margin-right: 50px;
+    padding-top: 10px;
+    padding: 10px 15px;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.7);
+}

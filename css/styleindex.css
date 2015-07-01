@@ -1,0 +1,7 @@
+body{
+    background-image: url('../img/fondoindex.png');
+    background-repeat: repeat;
+    /*background-color: #6c6c6c;  */
+    background-color: #c4c4c4;
+    width: 100%;
+}
